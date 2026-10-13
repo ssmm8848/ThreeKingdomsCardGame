@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e183faf52c7e3514ca371f45c314e316, type: 3}
+  m_Name: chaiqiao
+  m_EditorClassIdentifier: 
+  cardName: "\u62C6\u6865"
+  description: "\u5F03\u7F6E\u76EE\u6807\u533A\u57DF\u5185\u7684\u4E00\u5F20\u724C\uFF08\u624B\u724C\u6216\u88C5\u5907\uFF09\u3002"
+  category: 1
+  effectType: 6
+  artwork: {fileID: 0}
+  value: 1
+  needTarget: 1
+  voiceClip: {fileID: 8300000, guid: cfd3992b378e4641a9b4fb4667ef08a1, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e183faf52c7e3514ca371f45c314e316, type: 3}
+  m_Name: ChaWei
+  m_EditorClassIdentifier: 
+  cardName: "\u5BDF\u5FAE"
+  description: "\u5BF9\u4E00\u540D\u6709\u81F3\u5C11 1 \u70B9\u7591\u8FF9\u4E14\u8EAB\u4EFD\u672A\u516C\u5F00\u7684\u89D2\u8272\u4F7F\u7528\uFF0C\u516C\u5F00\u5176\u771F\u5B9E\u8EAB\u4EFD\u3002"
+  category: 1
+  effectType: 12
+  artwork: {fileID: 0}
+  value: 1
+  needTarget: 1
+  fivePlayerOnly: 1
+  supplementalCopies: 1
+  voiceClip: {fileID: 8300000, guid: 82af43c3e1a0484da5dbead8d365d459, type: 3}

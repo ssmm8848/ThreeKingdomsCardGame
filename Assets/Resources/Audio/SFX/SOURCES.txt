@@ -1,0 +1,23 @@
+Selected sounds used by this game
+
+All selected OGG files below come from Kenney sound packs and are licensed CC0.
+
+ui_click.ogg       <- Interface Sounds / click_001.ogg
+ui_target.ogg      <- Interface Sounds / select_001.ogg
+heal_restore.ogg   <- Interface Sounds / pluck_001.ogg
+turn_bell.ogg      <- Interface Sounds / bong_001.ogg
+card_select.ogg    <- RPG Audio / bookFlip1.ogg
+card_draw.ogg      <- RPG Audio / bookFlip2.ogg
+card_play.ogg      <- RPG Audio / bookPlace1.ogg
+card_discard.ogg   <- RPG Audio / bookClose.ogg
+attack_slash.ogg   <- RPG Audio / knifeSlice.ogg
+equip_metal.ogg    <- RPG Audio / metalLatch.ogg
+attack_hit.ogg     <- Impact Sounds / impactMetal_medium_000.ogg
+defense_block.ogg  <- Impact Sounds / impactMetal_light_000.ogg
+
+Official packs:
+https://kenney.nl/assets/interface-sounds
+https://kenney.nl/assets/rpg-audio
+https://kenney.nl/assets/impact-sounds
+
+Kenney credit is optional. Original pack license files are included beside this note.

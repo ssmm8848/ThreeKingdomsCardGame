@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e183faf52c7e3514ca371f45c314e316, type: 3}
+  m_Name: XiJi
+  m_EditorClassIdentifier: 
+  cardName: "\u6D17\u8FF9"
+  description: "\u4E3A\u4E00\u540D\u53CB\u65B9\u89D2\u8272\u6D88\u9664 1 \u70B9\u7591\u8FF9\uFF1B\u5DF2\u6709\u653B\u4E3B\u786E\u8BC1\u7684\u89D2\u8272\u81F3\u5C11\u4FDD\u7559 1 \u70B9\u3002"
+  category: 1
+  effectType: 14
+  artwork: {fileID: 0}
+  value: 1
+  needTarget: 1
+  fivePlayerOnly: 1
+  supplementalCopies: 1
+  voiceClip: {fileID: 8300000, guid: dc6b0958142041979eae0b1c15013d49, type: 3}

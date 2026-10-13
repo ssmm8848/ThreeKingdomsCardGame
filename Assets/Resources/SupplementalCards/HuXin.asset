@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e183faf52c7e3514ca371f45c314e316, type: 3}
+  m_Name: HuXin
+  m_EditorClassIdentifier: 
+  cardName: "\u62A4\u5FC3"
+  description: "\u4F60\u6216\u4E00\u540D\u53CB\u65B9\u83B7\u5F97\u62A4\u76FE\uFF0C\u4E0B\u6B21\u53D7\u5230\u4F24\u5BB3\u65F6\u51CF\u5C11 1 \u70B9\uFF1B\u82E5\u672A\u89E6\u53D1\uFF0C\u5728\u76EE\u6807\u4E0B\u6B21\u56DE\u5408\u7ED3\u675F\u65F6\u5931\u6548\u3002"
+  category: 1
+  effectType: 8
+  artwork: {fileID: 0}
+  value: 1
+  needTarget: 1
+  fivePlayerOnly: 0
+  supplementalCopies: 1
+  voiceClip: {fileID: 8300000, guid: bb392680c6a44708a98dd1efb4f142e0, type: 3}

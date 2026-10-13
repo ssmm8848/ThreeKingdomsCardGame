@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e183faf52c7e3514ca371f45c314e316, type: 3}
+  m_Name: QingDeng
+  m_EditorClassIdentifier: 
+  cardName: "\u9752\u706F"
+  description: "\u88C5\u5907\u724C\u3002\u4F60\u7684\u56DE\u5408\u7ED3\u675F\u65F6\uFF0C\u82E5\u4F60\u6CA1\u6709\u624B\u724C\u4E14\u5DF2\u53D7\u4F24\uFF0C\u7FFB\u5F00\u724C\u5806\u9876\u724C\uFF1B\u82E5\u4E3A\u7EA2\u8272\uFF0C\u4F60\u56DE\u590D1\u70B9\u4F53\u529B\u3002\n"
+  category: 2
+  effectType: 11
+  artwork: {fileID: 0}
+  value: 1
+  needTarget: 0
+  voiceClip: {fileID: 8300000, guid: 09fa03526f7b4c5eb0c6391b58e6fcd2, type: 3}

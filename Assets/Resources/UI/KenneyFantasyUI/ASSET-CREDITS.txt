@@ -1,0 +1,7 @@
+Fantasy UI Borders 1.0
+Created by Kenney (https://kenney.nl)
+Official asset page: https://kenney.nl/assets/fantasy-ui-borders
+License: Creative Commons Zero (CC0 1.0)
+
+Integrated asset: PNG/Double/Transparent border/panel-transparent-border-000.png
+Renamed to Frame.png for the game's runtime UI skin.

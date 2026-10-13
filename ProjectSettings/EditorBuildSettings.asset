@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8207b029174ce104f995972c463f657a
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect2P.unity
+    guid: 942aef3aeccf92a40a8ca559e0d0d9a2
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect3P.unity
+    guid: 2ee77bc7c0619124e8aada9501c3a9ac
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect5P.unity
+    guid: 6b93c99ccf161b945ba8f24c8da1587d
+  - enabled: 1
+    path: Assets/Scenes/Battle2P.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Battle3P.unity
+    guid: 16ac76ecfa3722b45942ebe090d6a80b
+  - enabled: 1
+    path: Assets/Scenes/Battle5P.unity
+    guid: 467d3c5110f19774695e6ee3cc2464ec
+  m_configObjects: {}

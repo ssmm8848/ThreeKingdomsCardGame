@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 648f4b00cc3406a4a9c22eea597f5aed, type: 3}
+  m_Name: QingLan
+  m_EditorClassIdentifier: 
+  characterName: "\u9752\u5C9A"
+  maxHp: 3
+  skillName: "\u56DE\u6F9C"
+  skillDescription: "\u6BCF\u5F53\u4F60\u4F7F\u7528\u201C\u6843\u201D\u56DE\u590D\u4E00\u540D\u89D2\u8272\u540E\uFF0C\u82E5\u4F60\u7684\u624B\u724C\u6570\u5C11\u4E8E\u4F53\u529B\u4E0A\u9650\uFF0C\u4F60\u53EF\u4EE5\u6478\u4E00\u5F20\u724C\u3002"
+  portrait: {fileID: 21300000, guid: 43d85d3f999f8bc479e157e81c21684f, type: 3}
+  portraitPrompt: "\u4E00\u540D\u8EAB\u7740\u9752\u7EFF\u8272\u957F\u888D\u7684\u5973\u672F\u58EB\uFF0C\u624B\u6301\u7389\u8272\u77ED\u6756\uFF0C\u5468\u56F4\u73AF\u7ED5\u6DE1\u6DE1\u6C34\u96FE\u548C\u7AF9\u53F6\u3002\u795E\u60C5\u51B7\u9759\u6E29\u548C\uFF0C\u80CC\u666F\u662F\u96E8\u540E\u7684\u5C71\u4EAD\u4E0E\u6D41\u52A8\u6EAA\u6C34\uFF0C\u6574\u4F53\u6C14\u8D28\u6E05\u96C5\u3001\u6CBB\u6108\u3001\u6C89\u7A33\u3002"
+  skillVoice: {fileID: 8300000, guid: fc84cdce83b94c0a9688c75c83e8d658, type: 3}
+  cardVoices:
+  - card: {fileID: 11400000, guid: 0936b7256c291254b9a4c7a5fbe4895e, type: 2}
+    voiceClip: {fileID: 8300000, guid: 9bcaa624652a4f8bb8d52787ba235ba4, type: 3}
+  - card: {fileID: 11400000, guid: a0191e0cf5b095244bba45da36e6db91, type: 2}
+    voiceClip: {fileID: 8300000, guid: 2f146d641b4a472685d08361befec4c1, type: 3}
+  - card: {fileID: 11400000, guid: d71ae99243023f649904aaa9521b54ca, type: 2}
+    voiceClip: {fileID: 8300000, guid: 129e610340aa49e686d686904c88cb52, type: 3}

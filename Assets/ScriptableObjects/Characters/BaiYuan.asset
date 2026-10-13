@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 648f4b00cc3406a4a9c22eea597f5aed, type: 3}
+  m_Name: BaiYuan
+  m_EditorClassIdentifier: 
+  characterName: "\u767D\u9E22"
+  maxHp: 3
+  skillName: "\u8F7B\u7FBD"
+  skillDescription: "\u4F60\u53EF\u4EE5\u5C06\u4EFB\u610F\u724C\u5F53\u95EA\u6253\u51FA\uFF1B\u5F53\u961F\u53CB\u88AB\u653B\u51FB\u65F6\uFF0C\u4F60\u53EF\u4EE5\u5E2E\u961F\u53CB\u51FA\u95EA"
+  portrait: {fileID: 21300000, guid: 72fc61ca92689b14680e3be0e904e4ec, type: 3}
+  portraitPrompt: "\u767D\u9E22\uFF0C\u8F7B\u76C8\u98DE\u9E1F\u5F62\u8C61"
+  skillVoice: {fileID: 8300000, guid: f9aa3990a10648eeafb783e999074330, type: 3}
+  cardVoices:
+  - card: {fileID: 11400000, guid: 0936b7256c291254b9a4c7a5fbe4895e, type: 2}
+    voiceClip: {fileID: 8300000, guid: dad118a6680547c4925d4be3067a7ce8, type: 3}
+  - card: {fileID: 11400000, guid: a0191e0cf5b095244bba45da36e6db91, type: 2}
+    voiceClip: {fileID: 8300000, guid: 3995ef24ea0c4afb90332329af2de86d, type: 3}
+  - card: {fileID: 11400000, guid: d71ae99243023f649904aaa9521b54ca, type: 2}
+    voiceClip: {fileID: 8300000, guid: d86ae06dad414479935ef663d406f98a, type: 3}

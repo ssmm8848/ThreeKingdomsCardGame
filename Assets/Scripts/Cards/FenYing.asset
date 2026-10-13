@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e183faf52c7e3514ca371f45c314e316, type: 3}
+  m_Name: FenYing
+  m_EditorClassIdentifier: 
+  cardName: "\u711A\u8425"
+  description: "\u5BF9\u4E00\u540D\u5176\u4ED6\u89D2\u8272\u9020\u62101\u70B9\u4F24\u5BB3\u3002"
+  category: 1
+  effectType: 4
+  artwork: {fileID: 0}
+  value: 1
+  needTarget: 1
+  voiceClip: {fileID: 8300000, guid: c9031ab8f1e6417bbbc6a94a5b9db518, type: 3}

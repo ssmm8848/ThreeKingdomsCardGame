@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 648f4b00cc3406a4a9c22eea597f5aed, type: 3}
+  m_Name: LuGuanxing
+  m_EditorClassIdentifier: 
+  characterName: "\u9646\u89C2\u661F"
+  maxHp: 4
+  skillName: "\u89C2\u8C61"
+  skillDescription: "\u6BCF\u56DE\u5408\u9996\u6B21\u4F7F\u7528\u9526\u56CA\u724C\u540E\uFF0C\u4EAE\u51FA\u5E76\u5F03\u7F6E\u724C\u5806\u9876\u4E00\u5F20\u724C\u3002\u82E5\u5176\u82B1\u8272\u4E0E\u4F60\u4F7F\u7528\u7684\u9526\u56CA\u76F8\u540C\uFF0C\u6478\u4E00\u5F20\uFF1B\u70B9\u6570\u4E5F\u76F8\u540C\uFF0C\u518D\u6478\u4E00\u5F20\u3002"
+  portrait: {fileID: 21300000, guid: 814e29a9fe16403f8f5d648e8a9f47dc, type: 3}
+  portraitPrompt: "\u6C89\u9759\u7684\u53E4\u4EE3\u89C2\u661F\u5E08\uFF0C\u624B\u6301\u9752\u94DC\u661F\u76D8\uFF0C\u6C34\u58A8\u84DD\u7070\u7B14\u89E6\uFF0C\u5E26\u6709\u5C71\u6CB3\u661F\u8C61\u7684\u58A8\u8272\u5361\u9762\u3002"
+  skillVoice: {fileID: 0}
+  cardVoices: []
+  activeSkillType: 0
+  cardUseVoice: {fileID: 0}
